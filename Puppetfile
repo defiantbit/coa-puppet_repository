@@ -31,3 +31,6 @@ mod "coa-memcached",
   :git => "git://github.com/cvquesty/coa-memcached.git",
   :ref => 'testing'
 
+mod "coa-drupal"
+  :git => "git://github.com/cvquesty/coa-drupal.git",
+  :ref => 'testing'
